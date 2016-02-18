@@ -1,0 +1,5 @@
+C:\Users\rodolfoa\Documents\Visual Studio 2013\Projects\SistemaRestaurante\SistemaRestaurante.UnitTest\bin\Debug\SistemaRestaurante.UnitTest.dll
+C:\Users\rodolfoa\Documents\Visual Studio 2013\Projects\SistemaRestaurante\SistemaRestaurante.UnitTest\bin\Debug\SistemaRestaurante.UnitTest.pdb
+C:\Users\rodolfoa\Documents\Visual Studio 2013\Projects\SistemaRestaurante\SistemaRestaurante.UnitTest\obj\Debug\SistemaRestaurante.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\rodolfoa\Documents\Visual Studio 2013\Projects\SistemaRestaurante\SistemaRestaurante.UnitTest\obj\Debug\SistemaRestaurante.UnitTest.dll
+C:\Users\rodolfoa\Documents\Visual Studio 2013\Projects\SistemaRestaurante\SistemaRestaurante.UnitTest\obj\Debug\SistemaRestaurante.UnitTest.pdb

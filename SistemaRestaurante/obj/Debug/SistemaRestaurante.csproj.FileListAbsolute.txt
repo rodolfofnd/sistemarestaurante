@@ -1,0 +1,7 @@
+C:\Users\rodolfoa\Documents\Visual Studio 2013\Projects\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.dll
+C:\Users\rodolfoa\Documents\Visual Studio 2013\Projects\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.pdb
+C:\Users\rodolfoa\Documents\Visual Studio 2013\Projects\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.Properties.Resources.resources
+C:\Users\rodolfoa\Documents\Visual Studio 2013\Projects\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.csproj.GenerateResource.Cache
+C:\Users\rodolfoa\Documents\Visual Studio 2013\Projects\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.dll
+C:\Users\rodolfoa\Documents\Visual Studio 2013\Projects\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.pdb
+C:\Users\rodolfoa\Documents\Visual Studio 2013\Projects\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.csprojResolveAssemblyReference.cache
