@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace SistemaRestaurante.UnitTest
 {
     [TestClass]
-    public class UnitTest1
+    public class OpcaoMudancaTest
     {
         [TestMethod]
         public void TestMethod1()

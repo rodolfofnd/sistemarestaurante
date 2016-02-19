@@ -56,8 +56,17 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="PedidoTest.cs" />
+    <Compile Include="PratoTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="OpcaoMudancaTest.cs" />
+    <Compile Include="CategoriaTest.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaRestaurante\SistemaRestaurante.csproj">
+      <Project>{66f639a5-7daf-4493-9fdf-2c103dcafede}</Project>
+      <Name>SistemaRestaurante</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
